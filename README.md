@@ -1,8 +1,4 @@
-# Capacitated vehicle routing solvers:
-In this project we compare 4 methods to solve CVRP.
+# Capacitated vehicle routing solver NLNS implentation.
 
-Ant colony:
-
-Approx algos:
-
-Reinforcement learning:
+See the NLNS chapter in:
+[link text](https://docs.google.com/document/d/172bEKj18HJGSTb6UDWFOqVxraNwh_DuzrUOypD98U6o/edit?usp=sharing)
